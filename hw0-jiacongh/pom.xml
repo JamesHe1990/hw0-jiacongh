@@ -4,8 +4,8 @@
 	<artifactId>hw0-jiacongh</artifactId>
 	<version>0.0.9</version>
 	<scm>
-		<connection>scm:git:git@github.com:JamesHe1990/hwo-jiacongh.git</connection>
-		<developerConnection>scm:git:git@github.com:JamesHe1990/hwo-jiacongh.git</developerConnection>
+		<connection>scm:git:git@github.com:JamesHe1990/hw0-jiacongh.git</connection>
+		<developerConnection>scm:git@github.com:JamesHe1990/hw0-jiacongh.git</developerConnection>
 	</scm>
 	<repositories>
 		<repository>
