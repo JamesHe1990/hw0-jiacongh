@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.cmu.lti.11791.f13.hw0</groupId>
 	<artifactId>hw0-jiacongh</artifactId>
-	<version>0.0.7</version>
+	<version>0.0.9</version>
 	<scm>
 		<connection>scm:git:git@github.com:JamesHe1990/hwo-jiacongh.git</connection>
 		<developerConnection>scm:git:git@github.com:JamesHe1990/hwo-jiacongh.git</developerConnection>
@@ -16,11 +16,11 @@
 	<distributionManagement>
 		<repository>
 			<id>deployment</id>
-			<url>http://mu.lti.cs.cmu:8081/nexus/content/groups/course</url>
+			<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/course-releases</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshots</id>
-			<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/course-snapshots&gt;</url>
+			<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/course-snapshots</url>
 		</snapshotRepository>
 	</distributionManagement>
 	<build>
